@@ -2,7 +2,7 @@
  * The twitter search by hashtag.
  *
  * @version 1.0.0
- * @author [Thia](https://github.com/Thia)
+ * @author [Thia](https://github.com/softexpert116)
  *
  */
 import React, { Component } from 'react';
